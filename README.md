@@ -132,6 +132,7 @@ Goal: keep stories **kid-safe** (no violence, cruelty, explicit sexual content, 
 ## Files
 
 - `main.py` — all logic (LLM calls, caching, safety, planning, judge/rewrite loops, CLI)
+- `hippocraticai.drawio.png` — block diagram of high level architecture
 
 ---
 
